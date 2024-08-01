@@ -15,3 +15,7 @@ override_dh_auto_configure:
 
 override_dh_strip:
 	dh_strip -a --dbg-package=libgz-plugin3-dbg
+
+# Execute doc creation to export at least the doxygen tag file
+override_dh_auto_build-indep:
+  $(MAKE) doc
