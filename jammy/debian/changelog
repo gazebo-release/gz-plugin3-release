@@ -1,3 +1,9 @@
+gz-plugin3 (3.0.1-1~jammy) jammy; urgency=medium
+
+  * gz-plugin3 3.0.1-1 release
+
+ -- Carlos Aguero <caguero@openrobotics.org>  Fri, 14 Feb 2025 15:53:27 +0100
+
 gz-plugin3 (3.0.0-1~jammy) jammy; urgency=medium
 
   * gz-plugin3 3.0.0-1 release
